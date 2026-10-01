@@ -1,5 +1,6 @@
 #include <PassaroOS/print.h>
 #include <PassaroOS/osconfig.h>
+#include "modo_oculto_funcs.h"
 #include <stdio.h>
 kprintf("OS NAME: %s", OS_NAME);
 print("1: ROOT");
