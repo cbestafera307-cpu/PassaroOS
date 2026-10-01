@@ -1,3 +1,4 @@
+void kprintf(const char *fmt, ...);
 void print(const char *msg);
 void printk(const char *msg) {
   print("KERNEL MESSAGE: );
