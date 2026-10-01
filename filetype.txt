@@ -1,2 +1,3 @@
 src/readme.md --> MarkDown
 /LICENSE --> Unknown
+EFI/BOOT/BOOTAA64.EFI --> EFI
