@@ -1,3 +1,8 @@
-src/readme.md --> MarkDown
-/LICENSE --> Unknown
-EFI/BOOT/BOOTAA64.EFI --> EFI
+.EFI --> EFI
+.CMD --> CMD CODE
+.IMAGE --> PNG/JPEG/OTHERS
+.HTML --> HTML
+.CSS --> CSS
+.JS --> JS
+.H --> HEADER
+.C --> C
