@@ -1,3 +1,11 @@
-#include <PassaroOS/osconfig>
+#include <PassaroOS/osconfig.h>
+#include <create_dir.h>
+#include <remove_dir.h>
 
-void root() {}
+void root() {
+ root = 1;
+}
+void reset() {
+  remove_dir("storage/");
+  create_dir("storage/");
+}
