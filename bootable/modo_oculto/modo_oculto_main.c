@@ -7,3 +7,12 @@ print("2: RESET");
 print("escolha um");
 int opc;
 scanf("%d", &opc);
+if (opc == 1) {
+        root();
+    }
+    else if (opc == 2) {
+        reset();
+    }
+    else {
+        print("NAO SUPORTADO. TENTE NOVAMENTE");
+    }
