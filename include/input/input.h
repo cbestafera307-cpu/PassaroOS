@@ -65,3 +65,7 @@
 #define KEY_F8 62
 #define KEY_F9 63
 #define KEY_F10 64
+/* OUTROS */
+#define KEY_VOL_UP 65
+#define KEY_VOL_DOWN 66
+#define KEY_POWER
