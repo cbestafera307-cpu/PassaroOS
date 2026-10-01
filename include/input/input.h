@@ -51,3 +51,17 @@
 #define KEY_v 49
 #define KEY_n 50
 #define KEY_m 51
+/* COMPUTADOR */
+#define KEY_ESC 52
+#define KEY_CTRL 53
+#define KEY_ALT 54
+#define KEY_F1 55
+#define KEY_F2 56
+#define KEY_F3 57
+#define KEY_F4 58
+#define KEY_F5 59
+#define KEY_F6 60
+#define KEY_F7 61
+#define KEY_F8 62
+#define KEY_F9 63
+#define KEY_F10 64
