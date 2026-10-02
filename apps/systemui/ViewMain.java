@@ -36,5 +36,10 @@ int[] Azul = {
   0,
   255
 }
+public static final int _STATUS_BAR_TIME_ = 0;
+public static final int _STATUS_BAR_GOOGLE_ = 1;
+public static final int _STATUS_BAR_NEWS_ = 2;
+public static final int _TIME_ = 0;
+public static final int _DAY_ = 1;
 }
 
