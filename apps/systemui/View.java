@@ -1,3 +1,4 @@
+package View.Main;
 public class View {
 
     // Posição e tamanho
