@@ -34,7 +34,12 @@ public class View {
      * Chamado quando a View precisa ser desenhada.
      */
     protected void onDraw(Canvas canvas) {
-        // Implementação padrão vazia
+    canvas.drawRect(
+        x,
+        y,
+        x + width,
+        y + height
+    );
     }
 
     /**
